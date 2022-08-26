@@ -1,13 +1,13 @@
 # Travel_Agency_Application_JAVA
-##Few Screenshots of Travel Agency JAVA Applications :
+<br/>#Few Screenshots of Travel Agency JAVA Applications :
 ![image](https://user-images.githubusercontent.com/79698057/186843261-47165241-fad6-4139-a43c-c69a4bf722fc.png)
 ![image](https://user-images.githubusercontent.com/79698057/186843312-84920e5e-43b8-4e7e-8e7e-e2db205ccf5d.png)
 ![image](https://user-images.githubusercontent.com/79698057/186843330-cc3ba241-9079-481c-922d-97bca4180072.png)
-##Issuing A Vehicle through an Staff Member:
+<br/>#Issuing A Vehicle through an Staff Member:
 ![image](https://user-images.githubusercontent.com/79698057/186843422-265c194a-83f0-4232-9880-9b664fc4bcc5.png)
-##Returning A vehicle:
+<br/>#Returning A vehicle:
 ![image](https://user-images.githubusercontent.com/79698057/186843465-05ef8fd3-20c1-400a-986f-79deda59873c.png)
-##Admin Page Features:
+<br/>#Admin Page Features:
 ![image](https://user-images.githubusercontent.com/79698057/186843508-ea88b0bb-dac1-4998-aee1-1e212d7baa83.png)
 ![image](https://user-images.githubusercontent.com/79698057/186843527-33ab9d62-5956-4535-854e-5dafca23d5d1.png)
 ![image](https://user-images.githubusercontent.com/79698057/186843541-25994ff1-0b3b-4a25-828b-096fdfc4e5f6.png)
